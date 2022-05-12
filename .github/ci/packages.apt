@@ -5,5 +5,6 @@ libignition-msgs9-dev
 libignition-rendering7-dev
 libignition-tools2-dev
 libignition-transport12-dev
+libopengl-dev
 libsdformat13-dev
 xvfb
