@@ -1,3 +1,4 @@
+libgl1-mesa-dev
 libignition-cmake2-dev
 libignition-common4-dev
 libignition-math6-dev
@@ -5,5 +6,6 @@ libignition-msgs8-dev
 libignition-rendering6-dev
 libignition-tools-dev
 libignition-transport11-dev
+libopengl-dev
 libsdformat12-dev
 xvfb
